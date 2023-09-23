@@ -1,19 +1,20 @@
 :root{
-    --mainColor:#eaeaea;
-    --secondaryColor:#fff;
+	--mainColor:#15202B;
+	--secondaryColor:#192734;
 
-    --borderColor:#c1c1c1;
+	--borderColor:#164D56;
 
-    --mainText:black;
-    --secondaryText: #4b5156;
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
 
-    --themeDotBorder:#24292e;
-    --previewBg: rgb(251,249,243,0.8);
-    --previewShadow: #f0ead6;
+	--themeDotBorder:#FFF;
 
-    --btnColor:black;
+	--previewBg:rgb(25, 39, 52, 0.8);
+	--previewShadow:#111921;
+
+
+	--buttonColor:#17a2b8;
 }
-
 
 html,body{
     padding: 0;
@@ -173,9 +174,9 @@ h6{font-size: 16px;}
 #purple-mode{
     background-color: #7E4C74;
 }
-#light-mode{
+/* #light-mode{
     background-color: #fff ;
-}
+} */
 #settings-note{
     font-size: 12px;
     font-style: italic ;
